@@ -53,6 +53,7 @@ Este projeto utiliza sensores ultrassônicos, LEDs, um servo motor e um buzzer p
 
 ## **WOKWI**
 https://wokwi.com/projects/408772784663929857
+![WhatsApp Image 2024-09-20 at 20 13 46](https://github.com/user-attachments/assets/2856aca2-98de-4ce0-8ea0-fd914b3a311c)
 ![Sem título](https://github.com/user-attachments/assets/2fd7aa03-417e-4457-9890-9f2f5f5dc6cc)
 
 
