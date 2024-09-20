@@ -51,4 +51,4 @@ Este projeto utiliza sensores ultrassônicos, LEDs, um servo motor e um buzzer p
 2. Carregue o código no seu microcontrolador Arduino usando a IDE Arduino.
 
 ## **WOKWI**
-wokwi.com/projects/408772784663929857
+https://wokwi.com/projects/408772784663929857
