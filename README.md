@@ -1,4 +1,4 @@
-# **Lixeira Inteligente Cedup 2024**
+**Lixeira Inteligente Cedup 2024**
 
 ## **Descrição**
 
@@ -50,5 +50,10 @@ Este projeto utiliza sensores ultrassônicos, LEDs, um servo motor e um buzzer p
 1. Conecte todos os componentes conforme os pinos definidos acima.
 2. Carregue o código no seu microcontrolador Arduino usando a IDE Arduino.
 
+
 ## **WOKWI**
 https://wokwi.com/projects/408772784663929857
+![Sem título](https://github.com/user-attachments/assets/2fd7aa03-417e-4457-9890-9f2f5f5dc6cc)
+
+
+
